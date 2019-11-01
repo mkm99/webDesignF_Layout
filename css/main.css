@@ -105,25 +105,23 @@ textarea {
       height: 101px;
       line-height: 101px;
     }
-
-    #main_menu menu{
+    #main_menu li{
+      display: inline;
+      margin: 0;
     }
     .floatLeft{
       float: left;
     }
-    .grBig{
+    .brBig{
       width: 593px;
     }
-    .grSmall{
+    .brSmall{
       logo: 367px;
     }
     .clear{
       clear: both;
     }
-    #main_menu li{
-      display: inline;
-      margin: 0;
-    }
+
 /* ==========================================================================
    Helper classes
    ========================================================================== */
